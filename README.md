@@ -1,0 +1,1 @@
+This repository contains hands-on projects in python, sql, data modelling and a copy of my AWS certification. Feel free to contribute to the projects. And don't forget to connect both on github and LinkedIn.
